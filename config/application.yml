@@ -1,0 +1,13 @@
+
+
+site_title:                 'Стараюся для Вас'
+site_root:                  'localhost:3000/'
+
+mailing_user_name:          'vitalina.liane'   
+mailing_password:           'gt5ovj9qm8s11k8ap5nU5googlegmail'
+mailing_port:               '587'
+mailing_address:            'smtp.gmail.com'
+
+
+
+
