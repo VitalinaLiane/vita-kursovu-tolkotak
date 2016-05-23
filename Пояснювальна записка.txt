@@ -1,5 +1,5 @@
 *** 
-Админка 
+Админка вже
 за адресою: /ohayna_adminochka
 login: email@example.com
 password: passwordische + код
