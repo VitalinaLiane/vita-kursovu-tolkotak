@@ -1,7 +1,7 @@
 
 
 site_title:                 'Стараюся для Вас'
-site_root:                  'localhost:3000/'
+site_root:                  'http://kursova-trial-version.herokuapp.com/'
 
 mailing_user_name:          'vitalina.liane'   
 mailing_password:           'gt5ovj9qm8s11k8ap5nU5googlegmail'
